@@ -1,0 +1,17 @@
+{
+  "name": "TENKEN 点検チェックリスト（デモ）",
+  "short_name": "TENKEN",
+  "description": "1項目1タップの点検チェックリスト。オフラインで点検でき、異常は是正完了まで追跡します。",
+  "lang": "ja",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#14171c",
+  "theme_color": "#14171c",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
